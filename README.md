@@ -1,6 +1,6 @@
 # ConvertOS
 My OS
-commnads:
+commands:
 nsconv
 wintime
 posixtime
